@@ -6,7 +6,15 @@ Aiero CMS; özellikle yapay zeka ajansları, teknoloji şirketleri ve dijital b�
 
 ---
 
-## 🚀 Öne Çıkan Özellikler
+## � Ön İzleme
+
+| Ana Sayfa | Yönetim Paneli | İçerik Yönetimi |
+| :---: | :---: | :---: |
+| ![Ana Sayfa](screenshot/Screenshot_1.png) | ![Yönetim Paneli](screenshot/Screenshot_2.png) | ![İçerik Yönetimi](screenshot/Screenshot_3.png) |
+
+---
+
+## �🚀 Öne Çıkan Özellikler
 
 - **Dinamik Tema Motoru:** Veritabanı odaklı içerik enjeksiyonu ile Aiero temasının otomatik render edilmesi.
 - **Görsel Düzenleme Deneyimi:** Tema içeriklerini görsel dostu kimliklendirme sistemi ile kolayca yönetme.
