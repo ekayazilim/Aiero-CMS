@@ -1,0 +1,56 @@
+﻿@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSn3-K.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSfSnn-K.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmScMnn-K.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSnn-K.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdgnn-K.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSeMmX-K.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSe1mX-K.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSfSmX-K.ttf) format('truetype');
+}

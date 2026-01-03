@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# HTTPS yonlendirmesi (opsiyonel, localhost icin kapali)
+# RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Dosya veya klasor varsa direkt eris
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Yoksa index.php'ye yonlendir
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
